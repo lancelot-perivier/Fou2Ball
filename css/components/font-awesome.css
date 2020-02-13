@@ -1,0 +1,8 @@
+.font-awesome a{
+	font-size: 50px;
+	color: white;
+}
+
+.font-awesome a:hover {
+	color: blue;
+}

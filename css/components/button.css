@@ -1,0 +1,13 @@
+.button-blue {
+	padding: 15px 20px;
+	background-color: #6D71DD;
+	border-radius: 4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+}
+
+.button-blue:hover {
+background-color: blue;
+color: white;
+}
